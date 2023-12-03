@@ -4,7 +4,7 @@
 }
 
 html, body {
-    background: url(/res/img/background.jpg) no-repeat;
+    background: url(../res/img/background.jpg) no-repeat;
     background-size: cover;
 }
 
