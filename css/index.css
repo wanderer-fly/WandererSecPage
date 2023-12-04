@@ -130,6 +130,18 @@ b {
     }
 
     .sites > h3 {
+        font-size: medium;
+    }
+
+    .mainbox > h1 {
+        font-size: large;
+    }
+
+    .mainbox > span {
+        font-size: small;
+    }
+
+    .mainbox > h2 {
         font-size: large;
     }
 }
